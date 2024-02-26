@@ -1,3 +1,5 @@
+
+
 SHOW DATABASES;
 
 CREATE TABLE estudiante(
